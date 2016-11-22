@@ -1,0 +1,19 @@
+{
+    "name": "haishi633/hello_world",
+    "description": "davi test the composer",
+    "license": "MIT",
+    "keywords": ["hello_world"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "David",
+            "email": "haishi633@126.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+
+    "autoload": {
+    }
+}
